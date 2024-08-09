@@ -6,4 +6,4 @@
 - Always eager to learn new things!
 
 ## Projects
-- [Project 1](https://github.com/mariateresapiacente/SitoRistorante)
+- [Sito Ristorante](https://github.com/mariateresapiacente/SitoRistorante)
