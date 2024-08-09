@@ -1,5 +1,4 @@
 # Hi There!
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+There!!!;My+name's+Mariateresa+Piacente.;I'm+a+Developer+student.)
 
 ## About Me
